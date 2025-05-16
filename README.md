@@ -1,7 +1,10 @@
 # Trinity Health Insurance - Marketing Insights
 
 The goal of this project is to investigate the performance of marketing campaigns at Trinity Insurance in order to surface recommendations on marketing budget allocation across future campaign categories.
-Trinity Insurance is a medical insurance company founded in 2016, serving over thousands of customers throughout the United States. In 2019, Trinity launched a new set of marketing campaign categories spanning topics like wellness tips, the affordability of their plans, and preventative care. Customers can sign up for 4 different plans - bronze, silver, gold, and platinum - each with different premiums and claim coverage rates.
+
+Trinity Insurance is a medical insurance company founded in 2016, serving over thousands of customers throughout the United States. In 2019, Trinity launched a new set of marketing campaign categories spanning topics like wellness tips, the affordability of their plans, and preventative care. 
+
+Customers can sign up for 4 different plans - bronze, silver, gold, and platinum - each with different premiums and claim coverage rates.
 
 The company would like to build more understanding of the effectiveness of these campaign categories and how they relate to signups and subsequent patient claims. The budget is allocated to drive two primary objectives: 
   1) To increase the number of customer signups, &
@@ -34,7 +37,7 @@ Campaign performacne has been evaluated based on the following key metrics:
 - Within the two categories with high CTR, product promotion-based campaigns had relatively low CTR (0% and 7%).
 - Family Coverage Plan had high impressions but no clicks - this needs to be investigated and could be due to missing data or issues with the campaign.
 
-## Cost per Signup
+## 3. Cost per Signup
 - Across campaign categories, Golden Years Security had by far the highest cost per signup ($177), as well as the lowest number of signups (23), compared to an average of $2.2.
 - Within the two campaign categories with highest cost per signup, info-based campaign types (like offers and policy info) drove high costs per signup.
 - Some COVID-based campaigns also had abnormally high CACs at $1.2-$1.3K.
