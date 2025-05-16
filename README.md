@@ -13,6 +13,7 @@ The company would like to build more understanding of the effectiveness of these
 # Data Structure
 
 The dataset consisted of three tables, including information about 1. campaigns, 2. signups and user demographics, and 3. Customer claims and related information.
+
 ![Screenshot 2025-05-16 131904](https://github.com/user-attachments/assets/0c69055b-520e-489b-addc-705da05e502a)
 
 # Dashboard
