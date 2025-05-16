@@ -13,7 +13,7 @@ The dataset consisted of three tables, including information about 1. campaigns,
 ![Screenshot 2025-05-16 131904](https://github.com/user-attachments/assets/0c69055b-520e-489b-addc-705da05e502a)
 
 # Dashboard
-The dashboard can be found in Tableau Public here [https://public.tableau.com/app/profile/shilpa.ln.karumanchi/viz/Book2_17474149729050/Dashboard1].
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/shilpa.ln.karumanchi/viz/Book2_17474149729050/Dashboard1).
 This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
 ![Screenshot 2025-05-16 133705](https://github.com/user-attachments/assets/a8ac90fe-e381-4327-814e-9e10c80d75da)
 
