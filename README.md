@@ -4,8 +4,8 @@ The goal of this project is to investigate the performance of marketing campaign
 Trinity Insurance is a medical insurance company founded in 2016, serving over thousands of customers throughout the United States. In 2019, Trinity launched a new set of marketing campaign categories spanning topics like wellness tips, the affordability of their plans, and preventative care. Customers can sign up for 4 different plans - bronze, silver, gold, and platinum - each with different premiums and claim coverage rates.
 
 The company would like to build more understanding of the effectiveness of these campaign categories and how they relate to signups and subsequent patient claims. The budget is allocated to drive two primary objectives: 
-  1) to increase the number of customer signups, and
-  2) to raise awareness of Row Health’s brand across the country.
+  1) To increase the number of customer signups, &
+  2) To raise awareness of Row Health’s brand across the country.
      
 # Data Structure
 
@@ -41,6 +41,9 @@ Some COVID-based campaigns also had abnormally high CACs at $1.2-$1.3K.
 
 # Recommendations
 Health for All: Reallocate budget from Golden Years Security, which has high cost per acquisition, to Health for All campaigns. The second category outperforms across all key metrics, yet we have invested a relatively low amount ($20K) on them.
+
 Health Awareness: Within Health for All campaigns, focus on health awareness-type marketing, and less on product promotion-type campaigns, which had low signup rate and CTR.
+
 COVID Campaigns: Investigate the cause of abnormally high cost per signup for COVID-based campaigns, which had 2 signups that costed over $1K, compared to an average signup cost of $2.2. Consider removing these campaigns altogether.
+
 #HealthyLiving: Decrease investment in this campaign category, which has the highest spend ($46K) but mediocre signup rates compared to Health for All campaigns.
